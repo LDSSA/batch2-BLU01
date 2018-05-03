@@ -1,4 +1,4 @@
-# BLU01 - Times eries with Pandas and Multi-indexing 
+# BLU01 - Time series with Pandas and Multi-indexing 
 
 ## How to use this repo 
 1. Go through the Learning Notebooks (they are in the learnig notebooks folder)
