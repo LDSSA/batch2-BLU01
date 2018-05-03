@@ -8,4 +8,4 @@
 Please checkout the [How to Ask for Help](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help), and remember not to share code when asking for help about the exercises! 
 
 ## "I think I've found a bug"
-This repo is completely open source and is continuously improving over time. When you spot a mistake, please check whether it has been detected in the [issues](https://github.com/LDSSA/batch2-BLU01-instructors/issues). If it hasn't, please open an issue, explaining in details where it is (e.g. in what notebook, and on what line), and how to reproduce the error. If it is an easy fix, feel free to make a pull request. 
+This repo is completely open source and is continuously improving over time. When you spot a mistake, please check whether it has been detected in the [issues](https://github.com/LDSSA/batch2-BLU01/issues). If it hasn't, please open an issue, explaining in details where it is (e.g. in what notebook, and on what line), and how to reproduce the error. If it is an easy fix, feel free to make a pull request. 
